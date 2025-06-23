@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building: **[Movies App](https://github.com/tanmaylagoo/moviesapp)**  
-- 🌱 I’m leveling up in: `React`, `Three.js`, `GSAP`, `Arduino`, and `C`  
+- 🔭 I’m currently building:
+- 🌱 I’m leveling up in: 
 - 👯 I’m looking to collaborate on: **Open Source** and **Freelance Projects**
 - 💼 I'm available for: **Frontend, Backend, or Full Stack projects**
 - ⚡ Fun fact: I love solving real-world problems with code  
-- 🧠 Goal: Become a **Pro Developer** 💻💪
+- 🧠 Goal: Become an **Accomplished Developer** 💻💪
 
 ---
 
@@ -31,6 +31,12 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+
+
 </p>
 
 ---
@@ -74,8 +80,11 @@
 
 | Project | Description |
 |--------|-------------|
-| [**Healthcare Assistant App**](https://github.com/tanmaylagoo/TeamZenith-prac) | React Native + Flask backend + ML + DOCX reports |
-| [**Movies Mobile App**](https://github.com/yourusername/material-supply-web) | All Movies, Details system, blogs, and Aesthatic UI |
+| [**Netflix Data analysis using Tableau dataset from Kaggle**](https://github.com/tanmaylagoo/Netflix-Data-Analysis-Tableau) | Tableau |
+| [**Login Page with CSS and HTML**](https://github.com/tanmaylagoo/Login-Page-with-CSS-and-HTML) | HTML, CSS |
+| [**AirBNB 2016 Data analysis using Tableau from Kaggle**](https://github.com/tanmaylagoo/AirBNB-2016-Data-Analytics-Tableau-Project) | Tableau |
+
+
 
 <!---
 <br />
