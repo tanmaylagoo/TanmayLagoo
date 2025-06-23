@@ -84,6 +84,8 @@
 | [**Login Page with CSS and HTML**](https://github.com/tanmaylagoo/Login-Page-with-CSS-and-HTML) | HTML, CSS |
 | [**AirBNB 2016 Data analysis using Tableau from Kaggle**](https://github.com/tanmaylagoo/AirBNB-2016-Data-Analytics-Tableau-Project) | Tableau |
 | [**Apocolypse Food Preparation**](https://github.com/tanmaylagoo/Power-BI-Data-Analytics-Project) | PowerBI |
+| [**Excel Data analytics bike sales dataset from Kaggle**](https://github.com/tanmaylagoo/Excel-Data-Analytics-Project) | Excel |
+
 
 
 
