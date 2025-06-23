@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building:
-- 🌱 I’m leveling up in: 
+- 🌱 I’m leveling up in: Full stack web development
 - 👯 I’m looking to collaborate on: **Open Source** and **Freelance Projects**
 - 💼 I'm available for: **Frontend, Backend, or Full Stack projects**
 - ⚡ Fun fact: I love solving real-world problems with code  
@@ -83,6 +83,7 @@
 | [**Netflix Data analysis using Tableau dataset from Kaggle**](https://github.com/tanmaylagoo/Netflix-Data-Analysis-Tableau) | Tableau |
 | [**Login Page with CSS and HTML**](https://github.com/tanmaylagoo/Login-Page-with-CSS-and-HTML) | HTML, CSS |
 | [**AirBNB 2016 Data analysis using Tableau from Kaggle**](https://github.com/tanmaylagoo/AirBNB-2016-Data-Analytics-Tableau-Project) | Tableau |
+| [**Apocolypse Food Preparation**](https://github.com/tanmaylagoo/Power-BI-Data-Analytics-Project) | PowerBI |
 
 
 
