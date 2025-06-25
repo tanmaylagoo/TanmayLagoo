@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Tanmay Lagoo</h1>
-<h3 align="center">🚀 Full Stack Developer </h3>
+<h1 align="center">Greetings 👋, I'm Tanmay Lagoo</h1>
+<h3 align="center">Aspiring Full Stack Developer And Data Science Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Reality;Learning+Every+Day;Building+Cool+Projects;Let's+Create+Something+Great!" />
