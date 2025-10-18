@@ -55,7 +55,7 @@
 | **Apocalypse Food Preparation Dashboard** | Power BI | [View Repo](https://github.com/tanmaylagoo/Power-BI-Data-Analytics-Project) |
 | **Excel Bike Sales Analysis** | Excel | [View Repo](https://github.com/tanmaylagoo/Excel-Data-Analytics-Project) |
 | **Login Page UI** | HTML, CSS | [View Repo](https://github.com/tanmaylagoo/Login-Page-with-CSS-and-HTML) |
-| **Java and OOPM Practice ** | Java, OOP | [View Repo](https://github.com/tanmaylagoo/Java-Student-Management-System) |
+| **Java and OOPM Practice** | Java, OOP | [View Repo](https://github.com/tanmaylagoo/Java-Student-Management-System) |
 
 
 ---
