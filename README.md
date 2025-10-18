@@ -1,110 +1,81 @@
-
-<h1 align="center">Greetings 👋, I'm Tanmay Lagoo</h1>
-<h3 align="center">Aspiring Full Stack Developer And Data Science Enthusiast </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Reality;Learning+Every+Day;Building+Cool+Projects;Let's+Create+Something+Great!" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently building:
-- 🌱 I’m leveling up in: Full stack web development
-- 👯 I’m looking to collaborate on: **Open Source** and **Freelance Projects**
-- 💼 I'm available for: **Frontend, Backend, or Full Stack projects**
-- ⚡ Fun fact: I love solving real-world problems with code  
-- 🧠 Goal: Become an **Accomplished Developer** 💻💪
-
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-
-
-
-
-
-</p>
-
----
-
-### 📈 GitHub Stats
-
-
-
- <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanmaylagoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmaylagoo&theme=2077" height="180em" /></p>
-
-<p  align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmaylagoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanmaylagoo&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmaylagoo&theme=2077" height="180em" /></p>
-
-  <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaylagoo&theme=github_dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
-  </p>
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#4FC3F7;">Tanmay Lagoo</span></h1>
+<h3 align="center">Full Stack Developer • Data Science Enthusiast • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaylagoo&layout=compact&count_private=true&theme=github_dark" alt="top-langs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=🚀+Building+cool+projects;💻+Learning+something+new+every+day;🌐+Exploring+AI+and+Web+Development;✨+Turning+ideas+into+reality" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+## 👨‍💻 About Me
 
-<p align="left">
+- 🌱 Currently learning **Full Stack Development (React, Node.js, Express, MongoDB)**  
+- 🔭 Building **real-world web apps** & exploring **AI integrations**  
+- 💼 Open for **Frontend / Backend / Full Stack internships or freelance work**  
+- 👯 Love collaborating on **open-source and innovative tech projects**  
+- ⚡ Fun fact: I believe *learning consistency > speed*  
+- 🎯 Goal: To become an **impactful developer** creating solutions that matter  
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,cpp,c,vscode" />
+  <br />
+  <!-- Data -->
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,excel" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tanmaylagoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaylagoo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanmaylagoo&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmaylagoo&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Featured Projects
+
+| 💡 Project | 🧰 Tech Stack | 🔗 Link |
+|-------------|----------------|---------|
+| **Netflix Data Analysis** | Tableau | [View Repo](https://github.com/tanmaylagoo/Netflix-Data-Analysis-Tableau) |
+| **Airbnb 2016 Analytics** | Tableau | [View Repo](https://github.com/tanmaylagoo/AirBNB-2016-Data-Analytics-Tableau-Project) |
+| **Apocalypse Food Preparation Dashboard** | Power BI | [View Repo](https://github.com/tanmaylagoo/Power-BI-Data-Analytics-Project) |
+| **Excel Bike Sales Analysis** | Excel | [View Repo](https://github.com/tanmaylagoo/Excel-Data-Analytics-Project) |
+| **Login Page UI** | HTML, CSS | [View Repo](https://github.com/tanmaylagoo/Login-Page-with-CSS-and-HTML) |
+| **Student Management System (New)** | Java, OOP | [View Repo](https://github.com/tanmaylagoo/Java-Student-Management-System) |
+| **Library Management System (New)** | Java, File I/O | [View Repo](https://github.com/tanmaylagoo/Library-Management-System-Java) |
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tanmay-lagoo-7b425130a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tanmaylagoo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:tanmaylagoo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
- 
-
 </p>
 
 ---
 
-### 📌 Pinned Projects
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tanmaylagoo.tanmaylagoo" alt="visitor badge"/>
+</p>
 
-| Project | Description |
-|--------|-------------|
-| [**Netflix Data analysis using Tableau dataset from Kaggle**](https://github.com/tanmaylagoo/Netflix-Data-Analysis-Tableau) | Tableau |
-| [**Login Page with CSS and HTML**](https://github.com/tanmaylagoo/Login-Page-with-CSS-and-HTML) | HTML, CSS |
-| [**AirBNB 2016 Data analysis using Tableau from Kaggle**](https://github.com/tanmaylagoo/AirBNB-2016-Data-Analytics-Tableau-Project) | Tableau |
-| [**Apocolypse Food Preparation**](https://github.com/tanmaylagoo/Power-BI-Data-Analytics-Project) | PowerBI |
-| [**Excel Data analytics bike sales dataset from Kaggle**](https://github.com/tanmaylagoo/Excel-Data-Analytics-Project) | Excel |
-
-
-
-
-<!---
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-
-<br />
- -->
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanmaylagoo.tanmaylagoo
-)
-
-
----
