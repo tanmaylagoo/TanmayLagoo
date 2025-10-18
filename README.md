@@ -2,9 +2,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#4FC3F7;">Tanmay Lagoo</span></h1>
 <h3 align="center">Full Stack Developer • Data Science Enthusiast • Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=🚀+Building+cool+projects;💻+Learning+something+new+every+day;🌐+Exploring+AI+and+Web+Development;✨+Turning+ideas+into+reality" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Reality;Learning+Every+Day;Building+Cool+Projects;Let's+Create+Something+Great!" /> </p>
 
 ---
 
