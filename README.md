@@ -25,10 +25,13 @@
   <!-- Core Development -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,cpp,c,vscode" />
   <br />
-  <!-- Data & Analytics -->
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi,excel" />
+   <!-- Data & Analytics -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
+ 
 ---
 
 ## 📊 GitHub Analytics
