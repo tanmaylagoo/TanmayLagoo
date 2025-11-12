@@ -2,7 +2,9 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#4FC3F7;">Tanmay Lagoo</span></h1>
 <h3 align="center">Full Stack Developer • Data Science Enthusiast • Problem Solver</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Reality;Learning+Every+Day;Building+Cool+Projects;Let's+Create+Something+Great!" /> </p>
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Ideas+Into+Reality;Learning+Every+Day;Building+Cool+Projects;Let's+Create+Something+Great!" /> 
+</p>
 
 ---
 
@@ -20,10 +22,10 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <!-- Core -->
+  <!-- Core Development -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,cpp,c,vscode" />
   <br />
-  <!-- Data -->
+  <!-- Data & Analytics -->
   <img src="https://skillicons.dev/icons?i=tableau,powerbi,excel" />
 </p>
 
@@ -57,7 +59,6 @@
 | **Login Page UI** | HTML, CSS | [View Repo](https://github.com/tanmaylagoo/Login-Page-with-CSS-and-HTML) |
 | **Java and OOPM Practice** | Java, OOP | [View Repo](https://github.com/tanmaylagoo/Java-Student-Management-System) |
 
-
 ---
 
 ## 🌐 Connect With Me
@@ -76,4 +77,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tanmaylagoo.tanmaylagoo" alt="visitor badge"/>
 </p>
-
